@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DanhSach>
+  <GV>
+    <HoTen>Nguyen Van A</HoTen>
+    <SoNhom>2</SoNhom>
+  </GV>
+  <GV>
+    <HoTen>Tran Thi B</HoTen>
+    <SoNhom>7</SoNhom>
+  </GV>
+  <GV>
+    <HoTen>Nguyen Van C</HoTen>
+    <SoNhom>4</SoNhom>
+  </GV>
+</DanhSach>

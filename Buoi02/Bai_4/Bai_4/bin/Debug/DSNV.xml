@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DSNV xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NhanVien>
+    <Ten>Nguyen Van Minh</Ten>
+    <PhongBan>Ke toan</PhongBan>
+    <HeSoLuong>2.0502519756789561</HeSoLuong>
+    <ThamNienCongTac>2047638293</ThamNienCongTac>
+    <SoNgayLamViec>0</SoNgayLamViec>
+    <Ma>9172</Ma>
+    <ChucVu>Nhan Vien</ChucVu>
+  </NhanVien>
+  <NhanVien>
+    <Ten>Bui Thi Thanh Huyen</Ten>
+    <PhongBan>Nhan su</PhongBan>
+    <HeSoLuong>2.5126563792641536</HeSoLuong>
+    <ThamNienCongTac>2015710785</ThamNienCongTac>
+    <SoNgayLamViec>0</SoNgayLamViec>
+    <Ma>2288</Ma>
+    <ChucVu>Nhan Vien</ChucVu>
+  </NhanVien>
+  <NhanVien>
+    <Ten>Le Van Quang</Ten>
+    <PhongBan>Hanh chinh</PhongBan>
+    <HeSoLuong>1.2635548232419205</HeSoLuong>
+    <ThamNienCongTac>767164337</ThamNienCongTac>
+    <SoNgayLamViec>0</SoNgayLamViec>
+    <Ma>1358</Ma>
+    <ChucVu>Nhan Vien</ChucVu>
+  </NhanVien>
+  <NhanVien>
+    <Ten>Hoang Van Tuan</Ten>
+    <PhongBan>Nhan su</PhongBan>
+    <HeSoLuong>3.7528351944651615</HeSoLuong>
+    <ThamNienCongTac>1708011114</ThamNienCongTac>
+    <SoNgayLamViec>0</SoNgayLamViec>
+    <Ma>5234</Ma>
+    <ChucVu>Nhan Vien</ChucVu>
+  </NhanVien>
+  <NhanVien>
+    <Ten>Hoang Van Tuan</Ten>
+    <PhongBan>Nhan su</PhongBan>
+    <HeSoLuong>0.11637487687001696</HeSoLuong>
+    <ThamNienCongTac>98275376</ThamNienCongTac>
+    <SoNgayLamViec>0</SoNgayLamViec>
+    <Ma>9478</Ma>
+    <ChucVu>Nhan Vien</ChucVu>
+  </NhanVien>
+</DSNV>

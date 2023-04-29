@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\Bai_4\Bai_4\bin\Debug\Bai_4.exe.config
+D:\Programming\Learning\prac-oop\Buoi02\Bai_4\Bai_4\bin\Debug\Bai_4.exe.config
+D:\Programming\Learning\prac-oop\Buoi02\Bai_4\Bai_4\bin\Debug\Bai_4.exe
+D:\Programming\Learning\prac-oop\Buoi02\Bai_4\Bai_4\bin\Debug\Bai_4.pdb
+D:\Programming\Learning\prac-oop\Buoi02\Bai_4\Bai_4\obj\Debug\Bai_4.csproj.AssemblyReference.cache
+D:\Programming\Learning\prac-oop\Buoi02\Bai_4\Bai_4\obj\Debug\Bai_4.csproj.SuggestedBindingRedirects.cache
+D:\Programming\Learning\prac-oop\Buoi02\Bai_4\Bai_4\obj\Debug\Bai_4.csproj.CoreCompileInputs.cache
+D:\Programming\Learning\prac-oop\Buoi02\Bai_4\Bai_4\obj\Debug\Bai_4.exe
+D:\Programming\Learning\prac-oop\Buoi02\Bai_4\Bai_4\obj\Debug\Bai_4.pdb
