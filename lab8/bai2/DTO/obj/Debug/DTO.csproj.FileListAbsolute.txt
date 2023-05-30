@@ -1,0 +1,2 @@
+C:\Users\nguye\OneDrive\Documents\School\prac-oop\lab8\bai2\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Documents\School\prac-oop\lab8\bai2\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
